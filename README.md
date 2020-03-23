@@ -122,7 +122,24 @@ sh run_fednas_search.sh 4 darts hetero 50 5 8
 
 ### 4. Citations
 If you use any part of this code in your research or any engineering project, please cite our paper: 
-*coming soon
+
+```
+FedNAS: Federated Deep Learning via Neural Architecture Search
+Chaoyang He, Murali Annavaram, Salman Avestimehr
+(Under Review)
+```
+
+```
+@inproceedings{MiLeNAS,
+  title={MiLeNAS: Efficient Neural Architecture Search via Mixed-Level Reformulation},
+  author={He, Chaoyang and Ye, Haishan and Shen, Li and Zhang, Tong},
+  booktitle={Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2020},
+}
+```
+
+
+
 
 ### 5. Contacts
 Please feel free to contact me if you meet any problem when using this source code.
