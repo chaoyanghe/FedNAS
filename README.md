@@ -3,10 +3,11 @@ This is the source code for the following paper:
 > [FedNAS: Federated Deep Learning via Neural Architecture Search](https://chaoyanghe.com)\
 > Chaoyang He, Murali Annavaram, Salman Avestimehr
 
-![Federated Neural Architecture Search](./docs/FedNAS.png)
+<img src="./docs/FedNAS.png" width="500">
 
 ## 1. AutoFL System Design
-![AutoFL system](./docs/system_design.png "Title" )
+
+<img src="./docs/system_design.png" width="500">
 
 We design an AutoFL system based on FedNAS to evaluate our idea. 
 The system architecture is shown in the above figure. 
@@ -121,20 +122,7 @@ sh run_fednas_search.sh 4 darts hetero 50 5 8
 
 ### 4. Citations
 If you use any part of this code in your research or any engineering project, please cite our paper: 
-
-> [FedNAS: Federated Deep Learning via Neural Architecture Search](https://chaoyanghe.com)\
-> Chaoyang He, Murali Annavaram, Salman Avestimehr
-
-and 
-
-> @inproceedings{MiLeNAS, \
->  title={MiLeNAS: Efficient Neural Architecture Search via Mixed-Level Reformulation}, \
->  author={He, Chaoyang and Ye, Haishan and Shen, Li and Zhang, Tong}, \
->  booktitle={Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, \
->  year={2020}, \
-> }
-
-
+*coming soon
 
 ### 5. Contacts
 Please feel free to contact me if you meet any problem when using this source code.
