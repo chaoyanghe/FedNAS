@@ -125,9 +125,6 @@ sh run_fednas_search.sh 4 darts hetero 50 5 8
 If you use any part of this code in your research or any engineering project, please cite our paper: 
 
 ```
-
-
-(Under Review)
 @inproceedings{MiLeNAS,
   title={FedNAS: Federated Deep Learning via Neural Architecture Search},
   author={He, Chaoyang and Annavaram, Murali and Avestimehr, Salman},
