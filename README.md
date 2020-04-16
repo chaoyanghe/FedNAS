@@ -1,7 +1,8 @@
 ## FedNAS: Federated Deep Learning via Neural Architecture Search
 This is the source code for the following paper:
 > [FedNAS: Federated Deep Learning via Neural Architecture Search](https://chaoyanghe.com)\
-> Chaoyang He, Murali Annavaram, Salman Avestimehr
+> Chaoyang He, Murali Annavaram, Salman Avestimehr \
+> Accepted to <a href="https://sites.google.com/view/cvpr20-nas/" target="_blank">CVPR 2020 Workshop on Neural Architecture Search and Beyond for Representation Learning</a>
 
 <img src="./docs/FedNAS.png" width="500">
 
