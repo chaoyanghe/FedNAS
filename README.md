@@ -1,4 +1,4 @@
-<span style="color:red">FedNAS is now supported by FedML (https://fedml.ai). We suggest using use the FedML library for FedNAS research. </span>
+<font color='red'>FedNAS is now supported by FedML (https://fedml.ai). We suggest using use the FedML library for FedNAS research. </span>
 
 ## FedNAS: Federated Deep Learning via Neural Architecture Search
 This is the source code for the following paper:
